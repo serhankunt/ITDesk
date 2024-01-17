@@ -1,0 +1,12 @@
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\bin\Debug\net8.0\ITDeskSignInResult.deps.json
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\bin\Debug\net8.0\ITDeskSignInResult.dll
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\bin\Debug\net8.0\ITDeskSignInResult.pdb
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.csproj.AssemblyReference.cache
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.GeneratedMSBuildEditorConfig.editorconfig
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.AssemblyInfoInputs.cache
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.AssemblyInfo.cs
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.csproj.CoreCompileInputs.cache
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.dll
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\refint\ITDeskSignInResult.dll
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ITDeskSignInResult.pdb
+C:\YMYP-Angular\ITDesk\ITDeskSignInResult\obj\Debug\net8.0\ref\ITDeskSignInResult.dll
